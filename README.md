@@ -5,23 +5,20 @@
 </p>
 
 - ✍ I'm a student of: [Vietnam - Korea University of Information and Communication Technology](https://vku.udn.vn) (VKU).
-
 - 🌱 I’m currently learning **Software Engineer**
+- How to reach me: <a href="javascript:void(0)">thaolv.21it@vku.udn.vn</a>
 
-## 📫 How to reach me:
+## 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.facebook.com/thaolv.03" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
   <a href="https://linkedin.com/in/thaolv03" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/48/null/linkedin.png"/>
   </a>
-  <a href="mailto:thaolv.21it@vku.udn.vn" alt="Email">
-    <img src="https://img.icons8.com/color/48/null/gmail-new.png"/>
+  <a href="https://twitter.com/thaolv03" alt="Twitter">
+   <img src="https://img.icons8.com/color/96/null/twitter--v1.png" width="50px"/>
   </a>
-  <a href="https://github.com/thaolv-03" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <a href="https://www.facebook.com/thaolv.03" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank"  />
   </a>
 </p>
 
@@ -42,11 +39,11 @@
 
 <table style="width:100%;">
   <tr>
-    <td width="45%">
+    <td width="44%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="thaolv-03" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="thaolv-03" width="100%"/>
     </td>
-    <td width="55%" >
+    <td width="56%">
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
