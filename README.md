@@ -6,7 +6,7 @@
 
 - ✍ I'm a student of: [Vietnam - Korea University of Information and Communication Technology](https://vku.udn.vn) (VKU).
 - 🌱 I’m currently learning **Software Engineer**
-- How to reach me: <a href="javascript:void(0)">thaolv.21it@vku.udn.vn</a>
+- 📬 How to reach me: <a href="javascript:void(0)">thaolv.21it@vku.udn.vn</a>
 
 ## 📫 Connect with me:
 
