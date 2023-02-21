@@ -27,12 +27,13 @@
 
 ## Skills:
 <p align="left">
-  <img src="https://img.icons8.com/color/48/null/mysql--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/mysql.png"/>
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
   <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/null/sass.png"/>
+  <img src="images/react.png" width="42px"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
