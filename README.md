@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thao Le Van</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/null/vietnam-circular.png"/></p>
 <p align="center">
   <h3 align="center">A software engineer student, web developer</h3>
 </p>
-
 
 - ✍ I'm a student of: [Vietnam - Korea University of Information and Communication Technology](https://vku.udn.vn) (VKU).
 
@@ -23,12 +23,14 @@
   <a href="mailto:thaolv.21it@vku.udn.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
+  
 </p>
 
 ## Skills:
 <p align="left">
   <img src="https://img.icons8.com/color/48/null/mysql.png"/>
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+  <img src="images/laravel-1.png" width="44px"/>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/kotlin.png"/>
   <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
