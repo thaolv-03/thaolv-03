@@ -11,19 +11,18 @@
 ## 📫 How to reach me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/thaolv03" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
   <a href="https://www.facebook.com/thaolv.03" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
+  <a href="https://linkedin.com/in/thaolv03" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:thaolv.21it@vku.udn.vn" alt="Email">
+    <img src="https://img.icons8.com/color/48/null/gmail-new.png"/>
+  </a>
   <a href="https://github.com/thaolv-03" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
-  <a href="mailto:thaolv.21it@vku.udn.vn" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-  
 </p>
 
 ## Skills:
@@ -43,11 +42,11 @@
 
 <table style="width:100%;">
   <tr>
-    <td>
+    <td width="45%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="thaolv-03" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="thaolv-03" width="100%"/>
     </td>
-    <td>
+    <td width="55%" >
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
