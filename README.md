@@ -39,6 +39,10 @@
   <a href="https://kotlinlang.org/" alt="kotlin">
     <img src="https://img.icons8.com/color/48/null/kotlin.png" target="_blank"/>
   </a>
+  
+  <a href="https://nodejs.dev/en/" alt="nodejs">
+    <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
+  </a>
   <a href="https://cplusplus.com/" alt="cpp">
     <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" target="_blank"/>
   </a>
@@ -47,9 +51,6 @@
   </a>
   <a href="https://beta.reactjs.org/" alt="react">
     <img src="images/react.png" target="_blank" width="42px"/>
-  </a>
-  <a href="https://nodejs.dev/en/" alt="nodejs">
-    <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
   </a>
   <a href="https://git-scm.com/" alt="git">
     <img src="https://img.icons8.com/color/48/000000/git.png" target="_blank"/>
