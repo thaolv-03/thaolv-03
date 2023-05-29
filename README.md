@@ -37,7 +37,7 @@
     <img src="https://img.icons8.com/color/48/null/javascript--v1.png" target="_blank"/>
   </a>
   <a href="https://www.typescriptlang.org/" alt="typescript">
-    <img src="https://icons8.com/color/48/null/typescript" target="_blank"/>
+    <img src="https://icons8.com/color/48/null/typescript.png" target="_blank"/>
   </a>
   <a href="https://kotlinlang.org/" alt="kotlin">
     <img src="https://img.icons8.com/color/48/null/kotlin.png" target="_blank"/>
