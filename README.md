@@ -36,10 +36,12 @@
   <a href="https://www.javascript.com/" alt="javascript">
     <img src="https://img.icons8.com/color/48/null/javascript--v1.png" target="_blank"/>
   </a>
+  <a href="https://www.typescriptlang.org/" alt="typescript">
+    <img src="https://icons8.com/icon/uJM6fQYqDaZK/typescript" target="_blank"/>
+  </a>
   <a href="https://kotlinlang.org/" alt="kotlin">
     <img src="https://img.icons8.com/color/48/null/kotlin.png" target="_blank"/>
   </a>
-  
   <a href="https://nodejs.dev/en/" alt="nodejs">
     <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
   </a>
