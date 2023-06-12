@@ -24,9 +24,9 @@
 
 ## Skills:
 <p align="left">
-  <a href="https://www.mysql.com/" alt="mysql">
+<!--   <a href="https://www.mysql.com/" alt="mysql">
     <img src="https://img.icons8.com/color/48/null/mysql.png" target="_blank"/>
-  </a>
+  </a> -->
   <a href="https://www.java.com/en/" alt="java">
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" target="_blank"/>
   </a>
@@ -36,15 +36,15 @@
   <a href="https://www.javascript.com/" alt="javascript">
     <img src="https://img.icons8.com/color/48/null/javascript--v1.png" target="_blank"/>
   </a>
-  <a href="https://www.typescriptlang.org/" alt="typescript">
+<!--   <a href="https://www.typescriptlang.org/" alt="typescript">
     <img src="https://img.icons8.com/color/48/null/typescript.png" target="_blank"/>
-  </a>
+  </a> -->
   <a href="https://kotlinlang.org/" alt="kotlin">
     <img src="https://img.icons8.com/color/48/null/kotlin.png" target="_blank"/>
   </a>
-  <a href="https://nodejs.dev/en/" alt="nodejs">
+<!--   <a href="https://nodejs.dev/en/" alt="nodejs">
     <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
-  </a>
+  </a> -->
   <a href="https://cplusplus.com/" alt="cpp">
     <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" target="_blank"/>
   </a>
