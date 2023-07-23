@@ -27,9 +27,9 @@
 
 ## Skills:
 <p align="left">
-  <a href="https://www.mysql.com/" alt="mysql">
+<!--   <a href="https://www.mysql.com/" alt="mysql">
     <img src="https://img.icons8.com/color/48/null/mysql.png" target="_blank"/>
-  </a>
+  </a> -->
   <a href="https://www.java.com/en/" alt="java">
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" target="_blank"/>
   </a>
@@ -61,7 +61,7 @@
     <img src="images/react.png" target="_blank" width="42px"/>
   </a> -->
   <a href="https://beta.reactjs.org/" alt="react">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
+    <img src="images/react_1.png" target="_blank" width="48px"/>
   </a>
   <a href="https://git-scm.com/" alt="git">
     <img src="https://img.icons8.com/color/48/000000/git.png" target="_blank"/>
