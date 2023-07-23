@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thao Le Van</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/null/vietnam-circular.png"/></p>
+<p align="center">
+<!--   <img src="https://img.icons8.com/color/48/null/vietnam-circular.png"/> -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/source-code.png" alt="source-code"/>
+</p>
 <p align="center">
   <h3 align="center">A software engineer student, web developer</h3>
 </p>
@@ -24,9 +27,9 @@
 
 ## Skills:
 <p align="left">
-<!--   <a href="https://www.mysql.com/" alt="mysql">
+  <a href="https://www.mysql.com/" alt="mysql">
     <img src="https://img.icons8.com/color/48/null/mysql.png" target="_blank"/>
-  </a> -->
+  </a>
   <a href="https://www.java.com/en/" alt="java">
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" target="_blank"/>
   </a>
@@ -36,23 +39,29 @@
   <a href="https://www.javascript.com/" alt="javascript">
     <img src="https://img.icons8.com/color/48/null/javascript--v1.png" target="_blank"/>
   </a>
-<!--   <a href="https://www.typescriptlang.org/" alt="typescript">
-    <img src="https://img.icons8.com/color/48/null/typescript.png" target="_blank"/>
-  </a> -->
   <a href="https://kotlinlang.org/" alt="kotlin">
     <img src="https://img.icons8.com/color/48/null/kotlin.png" target="_blank"/>
   </a>
-<!--   <a href="https://nodejs.dev/en/" alt="nodejs">
-    <img src="https://img.icons8.com/color/48/null/nodejs.png"/>
-  </a> -->
   <a href="https://cplusplus.com/" alt="cpp">
     <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" target="_blank"/>
+  </a>
+  <a>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  </a>
+  <a>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   </a>
   <a href="https://sass-lang.com/" alt="sass">
     <img src="https://img.icons8.com/color/48/null/sass.png" target="_blank"/>
   </a>
-  <a href="https://beta.reactjs.org/" alt="react">
+    <a href="https://www.typescriptlang.org/" alt="typescript">
+    <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  </a>
+<!--   <a href="https://beta.reactjs.org/" alt="react">
     <img src="images/react.png" target="_blank" width="42px"/>
+  </a> -->
+  <a href="https://beta.reactjs.org/" alt="react">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/>
   </a>
   <a href="https://git-scm.com/" alt="git">
     <img src="https://img.icons8.com/color/48/000000/git.png" target="_blank"/>
