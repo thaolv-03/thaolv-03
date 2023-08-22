@@ -7,6 +7,8 @@
   <h3 align="center">A software engineer student, web developer</h3>
 </p>
 
+![](https://komarev.com/ghpvc/?username=thaolv-03)
+
 - ✍ I'm a student of: [Vietnam - Korea University of Information and Communication Technology](https://vku.udn.vn) (VKU).
 - 🌱 I’m currently learning **Software Engineer**
 - 📬 How to reach me: <a href="mailto:thaolv.dev@gmail.com">thaolv.dev@gmail.com</a>
@@ -68,3 +70,6 @@
 <p align="left"> 
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/>
 </p>
+
+
+
