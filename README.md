@@ -27,9 +27,7 @@
 
 ## Skills:
 <p align="left">
-<!--   <a href="https://www.mysql.com/" alt="mysql">
-    <img src="https://img.icons8.com/color/48/null/mysql.png" target="_blank"/>
-  </a> -->
+
   <a href="https://www.java.com/en/" alt="java">
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" target="_blank"/>
   </a>
@@ -57,9 +55,6 @@
     <a href="https://www.typescriptlang.org/" alt="typescript">
     <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
   </a>
-<!--   <a href="https://beta.reactjs.org/" alt="react">
-    <img src="images/react.png" target="_blank" width="42px"/>
-  </a> -->
   <a href="https://beta.reactjs.org/" alt="react">
     <img src="images/react_1.png" target="_blank" width="48px"/>
   </a>
@@ -72,11 +67,11 @@
 
 <table style="width:100%;">
   <tr>
-    <td width="44%">
+    <!-- <td width="44%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="thaolv-03" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="thaolv-03" width="100%"/>
-    </td>
-    <td width="56%">
+    </td> -->
+    <td width="100%">
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
