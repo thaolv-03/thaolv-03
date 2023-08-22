@@ -27,21 +27,17 @@
 
 ## Skills:
 <p align="left">
-
+  <a href="https://cplusplus.com/" alt="cpp">
+    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" target="_blank"/>
+  </a>
   <a href="https://www.java.com/en/" alt="java">
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" target="_blank"/>
-  </a>
-  <a href="https://laravel.com/" alt="laravel">
-    <img src="images/laravel-1.png" target="_blank" width="44px"/>
-  </a>
-  <a href="https://www.javascript.com/" alt="javascript">
-    <img src="https://img.icons8.com/color/48/null/javascript--v1.png" target="_blank"/>
   </a>
   <a href="https://kotlinlang.org/" alt="kotlin">
     <img src="https://img.icons8.com/color/48/null/kotlin.png" target="_blank"/>
   </a>
-  <a href="https://cplusplus.com/" alt="cpp">
-    <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" target="_blank"/>
+  <a href="https://laravel.com/" alt="laravel">
+    <img src="images/laravel-1.png" target="_blank" width="44px"/>
   </a>
   <a>
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -49,11 +45,17 @@
   <a>
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   </a>
+  <a href="https://www.javascript.com/" alt="javascript">
+    <img src="https://img.icons8.com/color/48/null/javascript--v1.png" target="_blank"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" alt="typescript">
+    <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  </a>
   <a href="https://sass-lang.com/" alt="sass">
     <img src="https://img.icons8.com/color/48/null/sass.png" target="_blank"/>
   </a>
-    <a href="https://www.typescriptlang.org/" alt="typescript">
-    <img src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+  <a href="https://tailwindcss.com/" alt="tailwindcss">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   </a>
   <a href="https://beta.reactjs.org/" alt="react">
     <img src="images/react_1.png" target="_blank" width="48px"/>
@@ -63,18 +65,6 @@
   </a>
 </p>
 
-## Activities:
-
-<table style="width:100%;">
-  <tr>
-    <!-- <td width="44%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="thaolv-03" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=thaolv-03&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github" alt="thaolv-03" width="100%"/>
-    </td> -->
-    <td width="100%">
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left"> 
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/>
+</p>
