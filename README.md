@@ -62,6 +62,12 @@
   <a href="https://beta.reactjs.org/" alt="react">
     <img src="images/react_1.png" target="_blank" width="48px"/>
   </a>
+  <a href="https://svelte.dev/" alt="svelte">
+    <img src="images/svelte.png" target="_blank" height="44px"/>
+  </a>
+  <a href="https://astro.build/" alt="astro">
+    <img src="images/astro.png" target="_blank" height="44px"/>
+  </a>
   <a href="https://git-scm.com/" alt="git">
     <img src="https://img.icons8.com/color/48/000000/git.png" target="_blank"/>
   </a>
