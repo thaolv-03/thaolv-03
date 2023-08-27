@@ -27,7 +27,7 @@
   </a>
 </p>
 
-## Skills:
+## 👨‍💻 Skills:
 <p align="left">
   <a href="https://cplusplus.com/" alt="cpp">
     <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png" target="_blank"/>
